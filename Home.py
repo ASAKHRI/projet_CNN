@@ -5,6 +5,8 @@ from modeling import prediction_survie
 import pymysql
 
 
+
+
 def main():
 
     # Connexion à la BDD.
